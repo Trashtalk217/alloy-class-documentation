@@ -13,3 +13,6 @@
 
 ## Focus and Layout
 ![Focus and Layout](https://github.com/Trashtalk217/alloy-class-documentation/blob/master/focus&layout.png?raw=true)
+
+## Miscellaneous
+![Miscellaneous](https://github.com/Trashtalk217/alloy-class-documentation/blob/master/misc.png?raw=true)
